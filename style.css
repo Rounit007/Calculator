@@ -1,9 +1,10 @@
-html,body{
+ html,body{
     height: 100%;
     width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
     background-image: url(b12.jpg);
+    
 }
 .button{
     padding: 20px;
@@ -33,7 +34,7 @@ html,body{
 }
 
 .light-theme {
-     
+    background-color: #f5f5f5;
     color: #333;
     background-image: url(b12.jpg);
     
@@ -41,14 +42,15 @@ html,body{
 
   
   .dark-theme {
-    
+    background-color: #333;
     color: black;
-      background-image: url(b13.jpg);
+    background-image: url(b13.jpg);
+    object-fit:initial;
   }
   
   .blue-theme {
-    
+    background-color:darkmagenta;
     color: white;
-      background-image: url(b15.jpg);
+    background-image: url(b15.jpg);
   }
  
