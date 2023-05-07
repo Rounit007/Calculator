@@ -34,7 +34,7 @@
 }
 
 .light-theme {
-    background-color: #f5f5f5;
+
     color: #333;
     background-image: url(b12.jpg);
     
@@ -42,14 +42,12 @@
 
   
   .dark-theme {
-    background-color: #333;
     color: black;
     background-image: url(b13.jpg);
-    object-fit:initial;
+    
   }
   
   .blue-theme {
-    background-color:darkmagenta;
     color: white;
     background-image: url(b15.jpg);
   }
