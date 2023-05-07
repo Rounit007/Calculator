@@ -17,7 +17,7 @@
     background-color: red;
 }
 .mx-auto{
-    margin: auto;
+    margin-rigth:15px;
 }
 .flex{
     display: flex;
