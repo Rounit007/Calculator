@@ -1,0 +1,31 @@
+/* body {
+    background-image: url("b2.jpg ");
+  } */
+.text-center{
+    text-align: center;
+
+}
+.aa{
+    background-image: url("b3.jpg ");
+     
+     
+}
+.aa img{
+    opacity: 0.5;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+
+}

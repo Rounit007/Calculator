@@ -1,0 +1,51 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-image: url(b12.jpg);
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width:66px ;
+}
+.row{
+    margin: 7px 0;
+}
+.row input{
+    background-color: lightblue;
+    text-align:end;
+    justify-content:baseline;
+    width: 292px;
+    height: 154px;
+    font-size: 19px;
+    margin: 1px;
+    padding: 8px 0px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.button1{
+  background-image: url(th1.png);
+}
+
+.light-theme {
+    background-color: #f5f5f5;
+    color: #333;
+    
+  }
+
+  
+  .dark-theme {
+    background-color: #333;
+    color: black;
+  }
+  
+  .blue-theme {
+    background-color:darkmagenta;
+    color: black;
+  }
+ 
