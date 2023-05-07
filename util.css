@@ -1,7 +1,4 @@
-/* body {
-    background-image: url("b2.jpg ");
-  } */
-.text-center{
+ .text-center{
     text-align: center;
 
 }
@@ -17,7 +14,8 @@
     background-color: red;
 }
 .mx-auto{
-    margin-rigth:26px;
+    /* margin: auto; */
+    margin-right: 26px;
 }
 .flex{
     display: flex;
